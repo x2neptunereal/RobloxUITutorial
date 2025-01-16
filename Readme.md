@@ -1,6 +1,6 @@
 # Video Tutorial
-- Youtube : https://youtu.be/tiQDcG_FTMY
-( Credit : x2Neptune )
+- Youtube : https://youtu.be/tiQDcG_FTMY ( Credit : x2Neptune )
+![image](https://github.com/x2neptunereal/RobloxUITutorial/blob/main/Image.jpg)
 # Source Code
 **UI Creation**
 ```lua
